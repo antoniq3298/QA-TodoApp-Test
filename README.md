@@ -25,4 +25,8 @@ This repository contains a manual QA test suite for a simple To-Do web applicati
 - `Screenshots/` – optional folder with bug screenshots
 
 ## 👤 Author:
-Antoniya M. – QA Student | Manual Testing Enthusiast
+Antonia I. – QA Student | Manual Testing Enthusiast
+🧠 Additional Skills:
+- Completed UI & UX Design course at Software University (SoftUni)
+- Gained knowledge in usability testing, user-centric design, and accessibility standards
+
